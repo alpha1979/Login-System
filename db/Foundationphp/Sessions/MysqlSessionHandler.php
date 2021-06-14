@@ -3,7 +3,7 @@
  * Credits
  *
  * This class was created by David Powers for the Managing PHP Persistent
- * Sessions course on lynda.com. It's based on PDOSessionHandler in the
+ * Sessions course on lynda.com and modified by Atit Singh for personal use. It's based on PDOSessionHandler in the
  * Symfony HttpFoundation component (https://github.com/symfony/
  * HttpFoundation/blob/master/Session/Storage/Handler/PdoSessionHandler.php).
  * David Powers gratefully acknowledges the work of the original author, and
@@ -11,6 +11,7 @@
  *
  * Copyright (c) 2004-2015 Fabien Potencier
  * Copyright (c) 2015 David Powers
+ * Copyright (c) 2021 Atit Singh
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
